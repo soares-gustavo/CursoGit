@@ -1,6 +1,6 @@
 Novo arquivo para exercitar comandos:
 git add
 git commit
-git status
 git log
 git push
+git diff
